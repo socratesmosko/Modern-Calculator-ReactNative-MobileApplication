@@ -1,4 +1,4 @@
-# Modern Calculator Ract Native Mobile Application
+# Modern Calculator React Native Mobile Application
 
 This is a React Native mobile application featuring a modern calculator with a sleek design and intuitive functionalities, allowing users to perform mathematical calculations seamlessly on their smartphones.
 
