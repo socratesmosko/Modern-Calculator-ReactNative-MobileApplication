@@ -4,7 +4,7 @@ This is a React Native mobile application featuring a modern calculator with a s
 
 Technologies Used:
 - React Native Expo
-- Typescript
+- TypeScript
 
 # Features
 - Dark mode
